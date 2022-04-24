@@ -1,4 +1,4 @@
-Proyecto para la clase de Inteligencia Artificial, Seccion 0800 - I PAC 2022
+# Proyecto para la clase de Inteligencia Artificial, Seccion 0800 - I PAC 2022
 
 Instrucciones de uso:
 ```
